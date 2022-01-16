@@ -1,6 +1,6 @@
 # Euler-Project
 
-These are programs I wrote inspired by the Euler project (more info here: https://projecteuler.net/).
+These are programs I wrote inspired by the Euler Project (more info here: https://projecteuler.net/).
 In essence, the Euler Project is just a collection of computational math problems to be solved by programmers.
 Some of my "solutions" will be loosely inspired by problems and not necessarily restricted to just providing a number as an answer.
 
