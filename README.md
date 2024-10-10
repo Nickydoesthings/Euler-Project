@@ -11,5 +11,5 @@ Each of my programs is written in a Jupyter notebook which includes explanations
 
 Enjoy!
 
-P.S: For those wondering, Euler is pronounced like "oy-ler", and the project is named after mathematician Leonhard Euler.
+P.S: For those wondering, Euler is pronounced like "oy-ler", and the project is named after mathematician [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler).
 
